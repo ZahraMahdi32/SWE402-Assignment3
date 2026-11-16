@@ -81,7 +81,7 @@ When the player loses the final life, the game resets the lives and score accord
 
 ### 10. Video Demonstration
 
-[Insert the accessible 2–3-minute demonstration video link here.]
+https://drive.google.com/file/d/1jN8p7Md7E5YtJNceZudDhKXd7XsGmLww/view?usp=sharing
 
 The video demonstrates:
 - Before and After gameplay.
