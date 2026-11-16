@@ -1382,7 +1382,7 @@ MonoBehaviour:
   paddleHitClip: {fileID: 8300000, guid: b34628021c38dc64980b2e0f93ffa9cb, type: 3}
   brickDestroyClip: {fileID: 8300000, guid: 7447458d90b9b37449d24ec24443b625, type: 3}
   ballLostClip: {fileID: 8300000, guid: e1b87d1cca3f45c43a99c7c151acafd3, type: 3}
-  volume: 0.7
+  volume: 0.5
 --- !u!82 &1506381091
 AudioSource:
   m_ObjectHideFlags: 0
